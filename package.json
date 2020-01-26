@@ -1,0 +1,19 @@
+{
+  "name": "memory-checker",
+  "version": "1.0.0",
+  "description": "C++ memory release checker",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [
+    "memory",
+    "checker",
+    "c++"
+  ],
+  "author": "yhzheng",
+  "license": "MIT",
+  "bin": {
+    "memc": "main.js"
+  }
+}
